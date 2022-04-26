@@ -10,8 +10,8 @@
 	<element name="Path of the Cyborg" type="Archetype" source="me" id="ID_PATH_OF_THE_CYBORG">
 		<supports>Primal Path</supports>
 		<description>
-			<p>Barbarians who follow the Path of the Cyborg learn how to augment their rage abilities with the power stored inside Velin crystals.  </p>
-			<p class="indent">Electricity surges through their veins and their fury not only enhances their physical strength but grants them defenses as impermeable as the stone that gives them their power.</p>
+			<p>Barbarians who follow the Path of the Cyborg learn how to augment their rage abilities with the power stored inside Velin crystals. Electricity surges through their veins and their fury not only enhances their physical strength but grants them defenses as impermeable as the stone that gives them their power.  </p>
+			<p class="indent"></p>
 			<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_ANCESTRAL_GUARDIAN_ANCESTRAL_PROTECTORS" />
 			<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_ANCESTRAL_GUARDIAN_SPIRIT_SHIELD" />
 			<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_ANCESTRAL_GUARDIAN_CONSULT_THE_SPIRITS" />
