@@ -9,5 +9,6 @@
 	<files>
 		<file name="file1.xml" url="https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D/file1.xml" />
 		<file name="file2.xml" url="https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D/file2.xml" />
+		<file name="dwarf.xml" url="https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D/dwarf.xml" />
 	</files>
 </index>
