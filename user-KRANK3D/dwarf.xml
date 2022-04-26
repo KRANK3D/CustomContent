@@ -6,7 +6,7 @@
 			<file name="dwarf.xml" url="https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D/dwarf.xml" />
 		</update>
 	</info>
-	<element name="Dwarf" type="Race" source="Player’s Handbook" id="ID_SRD_RACE_DWARF">
+	<element name="Dwarf" type="Race" source="me" id="ID_SRD_RACE_DWARF">
 		<description>
 			<p class="flavor">Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs—these common threads unite all dwarves.</p>
 			<h4>SHORT AND STOUT</h4>
