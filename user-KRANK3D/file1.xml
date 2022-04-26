@@ -6,7 +6,6 @@
 			<file name="file1.xml" url="https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D/file1.xml" />
 		</update>
 	</info>
-	
 	<element name="Coolplate" type="Magic Item" source="Custom Content by CodeLink" id="ID_WOTC_LMOP_MAGIC_ITEM_DRAGONGUARD">
         <description>
             <p>This +1 breastplate is cool.</p>
@@ -29,5 +28,3 @@
         </rules>
     </element>
 </elements>
-	
-
