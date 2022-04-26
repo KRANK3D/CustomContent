@@ -1,7 +1,7 @@
-# repositoryname
+# CustomContent
 additional content to extend [Aurora](https://aurorabuilder.com/), by yourname
 
-index url: https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index
+index url: https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D.index
 
 ---
 
