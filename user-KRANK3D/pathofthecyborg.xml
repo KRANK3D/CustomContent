@@ -7,7 +7,7 @@
 		</update>
 	</info>
 	
-	<element name="Path of the Cyborg" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_PATH_OF_THE_ANCESTRAL_GUARDIAN">
+	<element name="Path of the Cyborg" type="Archetype" source="me" id="ID_PATH_OF_THE_CYBORG">
 		<supports>Primal Path</supports>
 		<description>
 			<p>Barbarians who follow the Path of the Cyborg learn how to augment their rage abilities with the power stored inside Velin crystals.  </p>
