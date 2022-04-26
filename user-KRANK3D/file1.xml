@@ -7,6 +7,27 @@
 		</update>
 	</info>
 	
-	<!-- place your elements here -->
+	<element name="Coolplate" type="Magic Item" source="Custom Content by CodeLink" id="ID_WOTC_LMOP_MAGIC_ITEM_DRAGONGUARD">
+        <description>
+            <p>This +1 breastplate is cool.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Armor</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="slot">body</set>
+            <set name="type" addition="breastplate">Armor</set>
+            <set name="rarity">Uncommon</set>
+            <set name="enhancement">1</set>
+            <set name="armor">Breastplate</set>
+        </setters>
+        <rules>
+            <stat name="ac:armored:enhancement" value="1" bonus="enhancement" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERFORMANCE" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERSUASION" />
+            <select type="Proficiency" name="Musical Instrument Proficiency, Reveler" supports="Musical Instrument" />
+        </rules>
+    </element>
+</elements>
 	
 </elements>
