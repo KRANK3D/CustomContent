@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>Ancestral Guardian</name>
+		<name>Path of the Cyborg</name>
 		<update version="0.0.5">
-			<file name="barbarian-ancestralguardian.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-ancestralguardian.xml" />
+			<file name="pathofthecyborg.xml" url="https://raw.githubusercontent.com/KRANK3D/CustomContent/master/user-KRANK3D/pathofthecyborg.xml" />
 		</update>
 	</info>
 	
-	<element name="Path of the Ancestral Guardian" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_PATH_OF_THE_ANCESTRAL_GUARDIAN">
+	<element name="Path of the Cyborg" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_PATH_OF_THE_ANCESTRAL_GUARDIAN">
 		<supports>Primal Path</supports>
 		<description>
-			<p>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</p>
-			<p class="indent">Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.</p>
+			<p>Barbarians who follow the Path of the Cyborg learn how to augment their rage abilities with the power stored inside Velin crystals.  </p>
+			<p class="indent">Electricity surges through their veins and their fury not only enhances their physical strength but grants them defenses as impermeable as the stone that gives them their power.</p>
 			<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_ANCESTRAL_GUARDIAN_ANCESTRAL_PROTECTORS" />
 			<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_ANCESTRAL_GUARDIAN_SPIRIT_SHIELD" />
 			<div element="ID_WOTC_XGTE_ARCHETYPE_FEATURE_ANCESTRAL_GUARDIAN_CONSULT_THE_SPIRITS" />
